@@ -1,7 +1,8 @@
 # 🛡️ PurpleGuard
 ### **The First Self-Healing Browser Defense Platform.**
 > *Powered by Dueling LLMs. Built for the Manifest V3 Era.*
-
+![Terminal Demo](./Screenshot_20251205-071201_Google Cloud.png)
+> 
 ---
 
 ### **🔥 The Problem**
