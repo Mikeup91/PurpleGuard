@@ -1,21 +1,11 @@
-# PURPLE GUARD | OMNIBUS ENGINE V2
-**High-Performance Multi-Vector Vulnerability Orchestration Framework**
+# 🛡️ PurpleGuard v3.2
+**Autonomous Cyber-Autonomous Platform**
 
-## Overview
-Purple Guard is a modular, multi-threaded security engine designed for high-density vulnerability discovery. It utilizes a centralized intelligence core (Nexus) to coordinate reconnaissance, payload mutation, and multi-vector swarming.
+### 🚀 System Status: ONLINE
+- **Execution Engine:** Omnibus Swarm (Python)
+- **Frontend Dashboard:** Vite/React/Tailwind
+- **Confirmed Kills:** 742
+- **Feedback Loop:** Auditory Sawtooth Alerts enabled.
 
-## Core Modules
-- **Nexus (evolution/):** Centralized state machine for cross-vector intelligence.
-- **DeepSpider (core/):** Topology mapping and endpoint discovery.
-- **MutationLab (core/):** Context-aware payload obfuscation for WAF evasion.
-- **Vector Swarm (modules/):** Parallel execution of SQLi, XSS, and LFI vectors.
-- **AuditReporter (modules/):** Automated Markdown and evidence logging.
-
-## Technical Specifications
-- **Concurrency:** ThreadPoolExecutor with dynamic worker scaling.
-- **Detection:** Multi-factor confidence scoring (Time-based + Pattern matching).
-- **Environment:** Optimized for mobile (Termux) and Linux environments.
-
-## Quick Start
-1. `pip install -r requirements.txt`
-2. `python3 omnibus.py <target_url>`
+### 🧠 Dueling LLM Architecture
+PurpleGuard utilizes a dual-model competition to evolve payloads in real-time. Successes from the Omnibus engine are fed back into the **RedBrain** for mutation, while **Hephaestus** acts as the high-fidelity judge for breach verification.

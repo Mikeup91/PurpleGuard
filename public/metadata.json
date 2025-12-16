@@ -1,0 +1,11 @@
+{
+    "total_kills": 742,
+    "last_scan": "2025-12-16",
+    "findings": [
+        {"type": "SQLi", "target": "http://testphp.vulnweb.com/listproducts.php?cat=1"},
+        {"type": "XSS", "target": "http://testphp.vulnweb.com/search.php?test=query"},
+        {"type": "RCE", "target": "http://testphp.vulnweb.com/admin/login.php"},
+        {"type": "LFI", "target": "http://testphp.vulnweb.com/showimage.php?file=..%2f"},
+        {"type": "Bypass", "target": "http://testphp.vulnweb.com/userinfo.php"}
+    ]
+}
